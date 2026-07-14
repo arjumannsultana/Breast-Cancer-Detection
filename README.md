@@ -3,7 +3,7 @@
 A machine learning web app that classifies breast tumors as **Malignant** or **Benign** using the K-Nearest Neighbors algorithm.
 
 #### 🚀 Live Demo
-[Click here to view the app]
+(https://breast-cancer-detection-lgzvgcj7shtpcjvuftc2gr.streamlit.app/)
 
 #### 📊 Features
 - Tumor classification using KNN 
